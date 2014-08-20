@@ -1,0 +1,23 @@
+{
+  "name": "gereji-storage",
+  "version": "0.0.1",
+  "description": "A simple mongodb wrapper.",
+  "main": "storage.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnjuguna/gereji-storage.git"
+  },
+  "keywords": [
+    "mongodb",
+    "gereji"
+  ],
+  "author": "David Njuguna <dnjuguna@gmail.com> (https://github.com/dnjuguna)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnjuguna/gereji-storage/issues"
+  },
+  "homepage": "https://github.com/dnjuguna/gereji-storage"
+}
