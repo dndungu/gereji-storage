@@ -1,7 +1,7 @@
 {
   "name": "gereji-storage",
-  "version": "0.0.1",
-  "description": "A simple mongodb wrapper.",
+  "version": "0.0.2",
+  "description": "A mongodb wrapper for the gereji web application framework.",
   "main": "storage.js",
   "scripts": {
     "test": "mocha"
